@@ -26,7 +26,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedMokhtarr5&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMokhtarr5&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ### 🚀 **About Me**
 - 🖥️ Skilled in **C++**, **.NET**, and **Python**  
 - 🤖 Passionate about **Machine Learning** and **AI**  
