@@ -25,7 +25,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMokhtarr5&show_icons=true&locale=en&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMokhtarr5&show_icons=true&locale=en&layout=compact) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedMokhtarr5&)
 
 
