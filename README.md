@@ -16,7 +16,7 @@
 ### 📝 **Know about my experiences**
 [![MY CV](https://img.shields.io/badge/MY%20CV%20%20%20%20-87CEEB?logoColor=white)](https://drive.google.com/file/d/1C9GTZFLnDU2yT1P5vLiPmqeRopnwQ3q5/view?usp=drive_link)
 
-#### **Languages & Frameworks**  
+### ⚙️ **Languages & Frameworks**  
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -42,7 +42,8 @@
 - 🖥️ Skilled in **C++**, **.NET**, and **Python**  
 - 🤖 Passionate about **Machine Learning** and **AI**  
 - 🎯 Continuously learning, creating, and contributing to innovative projects  
-- 🔧 Strong focus on clean, efficient, and scalable code  
+- 🔧 Strong focus on clean, efficient, and scalable code
+- 😂☕Just a coder who runs on coffee and laughs!
 
 ---
 
