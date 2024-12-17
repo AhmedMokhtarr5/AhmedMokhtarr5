@@ -8,6 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](http://Discordapp.com/users/707122032256614400)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Ahmedsameh1591972@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]([https://www.facebook.com/your-profile-link](https://www.facebook.com/profile.php?id=100013831753042))
+[![MY CV](https://img.shields.io/badge/MY%20CV%20%20%20%20-87CEEB?logoColor=white)](https://drive.google.com/file/d/1C9GTZFLnDU2yT1P5vLiPmqeRopnwQ3q5/view?usp=drive_link)
 
 
 
