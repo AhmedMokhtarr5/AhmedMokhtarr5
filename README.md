@@ -15,7 +15,7 @@
 
 ---
 ##  📝 **Know about my experiences**
-[![MY CV](https://img.shields.io/badge/MY%20CV%20%20%20%20-87CEEB?logoColor=white)](https://drive.google.com/file/d/1C9GTZFLnDU2yT1P5vLiPmqeRopnwQ3q5/view?usp=drive_link)
+[![MY CV](https://img.shields.io/badge/MY%20CV%20%20%20%20-87CEEB?logoColor=white)](https://drive.google.com/file/d/1vi4fD7-ddffelic_CNMd1MP5ox59huEl/view?usp=sharing)
 
 ## ⚙️ **Languages & Frameworks**  
 
